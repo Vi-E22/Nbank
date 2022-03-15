@@ -4,13 +4,13 @@ Documentation                       Ações customizadas do nBank
 *** Keywords ***
 Go To Home nBank
     Go To                           ${BASE_URL}
-    Wait For Elements State         css=.carousel-items         visible                 5
+    Wait For Elements State         css=.carousel-items             visible                 5
 
 Check Balance Amount 
     [Arguments]                     ${saldo}
 
-    ${saldo}=                       Convert To String              ${saldo}
-    ${element}                      Get Element                    css=.navbar-end a.navbar-item
+    ${saldo}=                       Convert To String               ${saldo}
+    ${element}                      Get Element                     css=.navbar-end a.navbar-item
 
     Wait For Elements State         ${element}                      visible                 5
     Get Text                        ${element}                      contains                ${saldo}
