@@ -1,0 +1,393 @@
+{"level":30,"time":"2022-03-15T22:05:21.903Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Listening on 53176"}
+{"level":30,"time":"2022-03-15T22:05:22.419Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:22.419Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:22.421Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:22.422Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:22.431Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-03-15T22:05:22.908Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-03-15T22:05:22.912Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-03-15T22:05:22.912Z","pid":6648,"hostname":"BRRIOWN038274","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-03-15T22:05:22.927Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:23.136Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Video path: undefined"}
+{"level":30,"time":"2022-03-15T22:05:23.136Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:23.601Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method newPage"}
+{"level":30,"time":"2022-03-15T22:05:23.604Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-03-15T22:05:23.764Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method goTo"}
+{"level":30,"time":"2022-03-15T22:05:23.767Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:23.768Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=.carousel-items in page."}
+{"level":30,"time":"2022-03-15T22:05:23.794Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:23.798Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:23.798Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=.navbar-end a.navbar-item in page."}
+{"level":30,"time":"2022-03-15T22:05:23.808Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:23.810Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:23.811Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=adab9d01-b2f3-4623-9e29-564c649249d4 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:23.811Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:23.816Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:23.821Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:23.821Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=adab9d01-b2f3-4623-9e29-564c649249d4 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:23.821Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:23.830Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element element=adab9d01-b2f3-4623-9e29-564c649249d4 containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2022-03-15T22:05:23.830Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:23.833Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:23.971Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:23.975Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:23.977Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:23.979Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:23.979Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-15T22:05:23.979Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:23.982Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:23.983Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:23.986Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:23.987Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:23.990Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:23.990Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:23.993Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:23.993Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-15T22:05:23.993Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:23.995Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-03-15T22:05:24.025Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-03-15T22:05:24.030Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:24.030Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:24.039Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-03-15T22:05:24.515Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-03-15T22:05:24.520Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-03-15T22:05:24.520Z","pid":6648,"hostname":"BRRIOWN038274","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-03-15T22:05:24.530Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:24.705Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Video path: undefined"}
+{"level":30,"time":"2022-03-15T22:05:24.705Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:25.197Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method newPage"}
+{"level":30,"time":"2022-03-15T22:05:25.202Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:25.202Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=.navbar-end a.navbar-item in page."}
+{"level":30,"time":"2022-03-15T22:05:25.219Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:25.221Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:25.221Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=da80844c-97dd-448d-b7e9-275c97af5e80 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:25.221Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:25.225Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:25.227Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.227Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=da80844c-97dd-448d-b7e9-275c97af5e80 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:25.227Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:25.237Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element element=da80844c-97dd-448d-b7e9-275c97af5e80 containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2022-03-15T22:05:25.237Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.239Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method click"}
+{"level":30,"time":"2022-03-15T22:05:25.240Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with text=Fazer PIX in page."}
+{"level":30,"time":"2022-03-15T22:05:25.359Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method click"}
+{"level":30,"time":"2022-03-15T22:05:25.363Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:25.363Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=.modal-card-body img in page."}
+{"level":30,"time":"2022-03-15T22:05:25.387Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:25.391Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-03-15T22:05:25.391Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=span.select select in page."}
+{"level":30,"time":"2022-03-15T22:05:25.421Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-03-15T22:05:25.423Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:25.423Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2022-03-15T22:05:25.442Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:25.444Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:25.444Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2022-03-15T22:05:25.461Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:25.462Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method click"}
+{"level":30,"time":"2022-03-15T22:05:25.463Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with text=Enviar PIX in page."}
+{"level":30,"time":"2022-03-15T22:05:25.565Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method click"}
+{"level":30,"time":"2022-03-15T22:05:25.571Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:25.572Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=.navbar-end a.navbar-item in page."}
+{"level":30,"time":"2022-03-15T22:05:25.580Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:25.584Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:25.585Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=7114fc0e-96cf-4910-91ec-8de2c0764a08 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:25.585Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:25.591Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:25.595Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.595Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=7114fc0e-96cf-4910-91ec-8de2c0764a08 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:25.595Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:25.605Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element element=7114fc0e-96cf-4910-91ec-8de2c0764a08 containing Olá Papito, seu saldo é R$ 900"}
+{"level":30,"time":"2022-03-15T22:05:25.605Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.611Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:25.611Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"Envio de PIX\")]/.. in page."}
+{"level":30,"time":"2022-03-15T22:05:25.614Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:25.615Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.616Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"Envio de PIX\")]/.. in page."}
+{"level":30,"time":"2022-03-15T22:05:25.628Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element xpath=//td[contains(text(), \"Envio de PIX\")]/.. containing 871-316-3167\tEnvio de PIX\tNeon - PIX para Scooby-Doo\t15/03/2022\tR$ -100 "}
+{"level":30,"time":"2022-03-15T22:05:25.628Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.630Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.630Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"Envio de PIX\")]/.. in page."}
+{"level":30,"time":"2022-03-15T22:05:25.644Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element xpath=//td[contains(text(), \"Envio de PIX\")]/.. containing 871-316-3167\tEnvio de PIX\tNeon - PIX para Scooby-Doo\t15/03/2022\tR$ -100 "}
+{"level":30,"time":"2022-03-15T22:05:25.644Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.646Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.646Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"Envio de PIX\")]/.. in page."}
+{"level":30,"time":"2022-03-15T22:05:25.655Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element xpath=//td[contains(text(), \"Envio de PIX\")]/.. containing 871-316-3167\tEnvio de PIX\tNeon - PIX para Scooby-Doo\t15/03/2022\tR$ -100 "}
+{"level":30,"time":"2022-03-15T22:05:25.655Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:25.660Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:25.861Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:25.864Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:25.865Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:25.866Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:25.866Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-15T22:05:25.866Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:25.873Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:25.876Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:25.877Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:25.877Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:25.878Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:25.878Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:25.880Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:25.880Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-15T22:05:25.880Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:25.881Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-03-15T22:05:25.908Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-03-15T22:05:25.912Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:25.912Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:25.915Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-03-15T22:05:26.405Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-03-15T22:05:26.408Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-03-15T22:05:26.408Z","pid":6648,"hostname":"BRRIOWN038274","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-03-15T22:05:26.429Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:26.610Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Video path: undefined"}
+{"level":30,"time":"2022-03-15T22:05:26.610Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:27.110Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method newPage"}
+{"level":30,"time":"2022-03-15T22:05:27.115Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:27.115Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=.navbar-end a.navbar-item in page."}
+{"level":30,"time":"2022-03-15T22:05:27.134Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:27.136Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:27.136Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=f761c5dd-3853-4d4a-b4c1-a8971d9707a0 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:27.136Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:27.142Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:27.144Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:27.144Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=f761c5dd-3853-4d4a-b4c1-a8971d9707a0 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:27.144Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:27.154Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element element=f761c5dd-3853-4d4a-b4c1-a8971d9707a0 containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2022-03-15T22:05:27.155Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:27.159Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method click"}
+{"level":30,"time":"2022-03-15T22:05:27.160Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with text=Fazer PIX in page."}
+{"level":30,"time":"2022-03-15T22:05:27.256Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method click"}
+{"level":30,"time":"2022-03-15T22:05:27.257Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:27.258Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=.modal-card-body img in page."}
+{"level":30,"time":"2022-03-15T22:05:27.388Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:27.390Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-03-15T22:05:27.391Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=span.select select in page."}
+{"level":30,"time":"2022-03-15T22:05:27.441Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-03-15T22:05:27.445Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:27.446Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2022-03-15T22:05:27.472Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:27.474Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:27.474Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2022-03-15T22:05:27.492Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:27.494Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method click"}
+{"level":30,"time":"2022-03-15T22:05:27.494Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with text=Enviar PIX in page."}
+{"level":30,"time":"2022-03-15T22:05:27.572Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method click"}
+{"level":30,"time":"2022-03-15T22:05:27.576Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:27.576Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:27.580Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:27.582Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:27.582Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:27.590Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:27.591Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:27.593Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:27.779Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:27.784Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:27.787Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:27.788Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:27.788Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-15T22:05:27.788Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:27.790Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:27.792Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:27.795Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:27.796Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:27.796Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:27.797Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:27.798Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:27.798Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-15T22:05:27.798Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:27.801Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-03-15T22:05:27.827Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-03-15T22:05:27.832Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:27.832Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:27.835Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-03-15T22:05:28.293Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-03-15T22:05:28.295Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-03-15T22:05:28.296Z","pid":6648,"hostname":"BRRIOWN038274","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-03-15T22:05:28.322Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:28.501Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Video path: undefined"}
+{"level":30,"time":"2022-03-15T22:05:28.501Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:29.028Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method newPage"}
+{"level":30,"time":"2022-03-15T22:05:29.032Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:29.032Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=.navbar-end a.navbar-item in page."}
+{"level":30,"time":"2022-03-15T22:05:29.050Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getElement"}
+{"level":30,"time":"2022-03-15T22:05:29.052Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:29.052Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=75e79357-af91-4b67-86bf-1c5d4cb92d06 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:29.052Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:29.056Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:29.058Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.058Z","pid":6648,"hostname":"BRRIOWN038274","msg":"element=75e79357-af91-4b67-86bf-1c5d4cb92d06 selector parsed without children"}
+{"level":30,"time":"2022-03-15T22:05:29.058Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-03-15T22:05:29.068Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element element=75e79357-af91-4b67-86bf-1c5d4cb92d06 containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2022-03-15T22:05:29.068Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.071Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method click"}
+{"level":30,"time":"2022-03-15T22:05:29.071Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with text=Fazer PIX in page."}
+{"level":30,"time":"2022-03-15T22:05:29.168Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method click"}
+{"level":30,"time":"2022-03-15T22:05:29.170Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:29.170Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=.modal-card-body img in page."}
+{"level":30,"time":"2022-03-15T22:05:29.302Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:29.304Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-03-15T22:05:29.305Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=span.select select in page."}
+{"level":30,"time":"2022-03-15T22:05:29.354Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-03-15T22:05:29.356Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:29.356Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2022-03-15T22:05:29.383Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:29.386Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:29.386Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2022-03-15T22:05:29.405Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method fillText"}
+{"level":30,"time":"2022-03-15T22:05:29.406Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method click"}
+{"level":30,"time":"2022-03-15T22:05:29.406Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with text=Enviar PIX in page."}
+{"level":30,"time":"2022-03-15T22:05:29.458Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method click"}
+{"level":30,"time":"2022-03-15T22:05:29.462Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:29.462Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.468Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-03-15T22:05:29.470Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.470Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.479Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.479Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.499Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.499Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.508Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.508Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.530Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.530Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.549Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.549Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.561Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.561Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.570Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.570Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.593Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.593Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.601Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.601Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.624Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.624Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.634Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.634Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.655Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.655Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.664Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.664Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.687Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.687Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.695Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.695Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.718Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.718Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.726Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.726Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.750Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.750Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.779Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.780Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.797Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.797Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.806Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.806Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.828Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.829Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.850Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.850Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.875Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.875Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.886Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.886Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.907Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.907Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.913Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.913Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.937Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.937Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.946Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.946Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.968Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:29.968Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:29.976Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:29.976Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.001Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.001Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.030Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.030Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.047Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.047Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.061Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.061Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.078Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.078Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.086Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.086Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.109Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.109Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.118Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.118Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.140Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.140Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.149Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.149Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.172Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.172Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.199Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.200Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.217Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.217Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.228Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.228Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.249Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.249Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.258Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.258Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.280Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.280Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.288Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.288Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.311Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.311Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.321Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.321Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.342Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.343Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.349Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.349Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.374Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.374Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.381Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.381Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.404Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.404Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.412Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.412Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.436Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.436Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.444Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.444Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.466Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.466Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.477Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.477Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.497Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.497Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Strict mode is enabled, find Locator with css=div.media-content in page."}
+{"level":30,"time":"2022-03-15T22:05:30.505Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Retrieved text for element css=div.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2022-03-15T22:05:30.505Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getText"}
+{"level":30,"time":"2022-03-15T22:05:30.506Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:30.709Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:30.719Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:30.824Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-03-15T22:05:30.829Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:30.831Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:30.834Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:30.834Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-15T22:05:30.834Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:30.837Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:30.838Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:30.842Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:30.842Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:30.843Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:30.843Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-03-15T22:05:30.844Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active context"}
+{"level":30,"time":"2022-03-15T22:05:30.844Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changing current active page"}
+{"level":30,"time":"2022-03-15T22:05:30.844Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Changed active page"}
+{"level":30,"time":"2022-03-15T22:05:30.845Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-03-15T22:05:30.874Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-03-15T22:05:30.880Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:30.880Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-03-15T22:05:30.954Z","pid":6648,"hostname":"BRRIOWN038274","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-03-15T22:05:31.272Z","pid":6648,"hostname":"BRRIOWN038274","msg":"End of node method closeAllBrowsers"}
